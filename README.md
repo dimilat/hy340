@@ -1,2 +1,2 @@
 # hy340
-Compiler in Alpha language
+Compiler for Alpha language
