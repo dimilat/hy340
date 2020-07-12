@@ -1,0 +1,12 @@
+
+----------Intermediate code----------
+0: TABLE_CREATE _t0 [line: 1]
+1: TABLE_SET_ELEM 8.000000 _t0 0 [line: 1]
+2: TABLE_SET_ELEM 8.000000 _t0 1 [line: 1]
+3: TABLE_SET_ELEM 8.000000 _t0 2 [line: 1]
+4: TABLE_SET_ELEM 8.000000 _t0 3 [line: 1]
+5: ASSIGN a _t0  [line: 1]
+6: ASSIGN _t0 a  [line: 1]
+7: TABLE_GET_ELEM _t0 a "x" [line: 1]
+8: ASSIGN a _t0  [line: 2]
+9: ASSIGN _t0 a  [line: 2]

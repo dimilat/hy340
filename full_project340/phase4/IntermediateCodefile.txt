@@ -1,0 +1,10 @@
+
+----------Intermediate code----------
+0: JUMP 5 [line: 1]
+1: FUNC_START a [line: 1]
+2: ASSIGN b 1 [line: 1]
+3: ASSIGN _t0 b  [line: 1]
+4: FUNC_END a [line: 1]
+5: PARAM a [line: 2]
+6: CALL a  [line: 2]
+7: GETRETVAL  _t0 [line: 2]
